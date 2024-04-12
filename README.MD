@@ -12,10 +12,8 @@ Sou estudante de Ciência da Computação e aspirante a desenvolvedor Full Stack
 ## 💻 Tecnologias
 Aqui estão as tecnologias com as quais trabalho, organizadas por categoria em um layout de duas colunas:
 
-<table>
-  <tr>
-    <!-- Coluna 1: Linguagens de Programação e Frameworks -->
-    <td valign="top" width="50%">
+## 💻 Tecnologias
+Aqui estão as tecnologias com as quais trabalho, organizadas por categoria:
 
 ### Linguagens de Programação
 | Linguagem   | Badge |
@@ -35,10 +33,6 @@ Aqui estão as tecnologias com as quais trabalho, organizadas por categoria em u
 | Node.js              | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) |
 | React Native         | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
 
-    </td>
-    <!-- Coluna 2: Ferramentas, Plataformas e Bancos de Dados -->
-    <td valign="top" width="50%">
-
 ### Ferramentas e Plataformas
 | Ferramenta/Plataforma | Badge |
 |-----------------------|-------|
@@ -51,9 +45,6 @@ Aqui estão as tecnologias com as quais trabalho, organizadas por categoria em u
 | MySQL          | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | SQL Server     | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
 
-    </td>
-  </tr>
-</table>
 
 ## 🛠 Projetos em Andamento
 - [Portfolio](https://github.com/JamzMarks/Portfolio) - Um portfólio pessoal para mostrar meus trabalhos e habilidades.

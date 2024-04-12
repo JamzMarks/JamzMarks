@@ -10,10 +10,6 @@ Sou estudante de Ciência da Computação e aspirante a desenvolvedor Full Stack
 - 💬 Discord: lonezerabrasileiro
 
 
-
-## 💻 Tecnologias
-Aqui estão as tecnologias com as quais trabalho, organizadas por categoria em um layout de duas colunas:
-
 ## 💻 Tecnologias
 Aqui estão as tecnologias com as quais trabalho, organizadas por categoria:
 

@@ -51,9 +51,11 @@ Aqui estão as tecnologias com as quais trabalho, organizadas por categoria:
 - [eClose](https://github.com/JamzMarks/eClose) - Um projeto em desenvolvimento que estou empolgado para compartilhar em breve.
 
 ## 📊 Estatísticas
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamzMarks&show_icons=true)
+![jamzmarks's Stats](https://github-readme-stats.vercel.app/api?username=jamzmarks&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamzMarks&layout=compact)
+![jamzmarks's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamzmarks&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![jamzmarks's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamzmarks&theme=vue-dark&hide_border=true)
 
 <details>
   <summary>🌱 Estou atualmente aprendendo...</summary>

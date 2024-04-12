@@ -4,10 +4,12 @@ Sou estudante de Ciência da Computação e aspirante a desenvolvedor Full Stack
 
 
 ## 📬 Contato
-- E-mail: [jamzmarks@gmail.com](mailto:jamzmarks@gmail.com)
-- GitHub: [JamzMarks](https://github.com/JamzMarks)
-- LinkedIn: [James Marques](https://www.linkedin.com/in/james-marques-48828422b/)
-- Discord: lonezerabrasileiro
+- 📧 E-mail: [jamzmarks@gmail.com](mailto:jamzmarks@gmail.com)
+- 🐱 GitHub: [JamzMarks](https://github.com/JamzMarks)
+- 🔗 LinkedIn: [James Marques](https://www.linkedin.com/in/james-marques-48828422b/)
+- 💬 Discord: lonezerabrasileiro
+
+
 
 ## 💻 Tecnologias
 Aqui estão as tecnologias com as quais trabalho, organizadas por categoria em um layout de duas colunas:

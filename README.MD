@@ -23,7 +23,7 @@ Aqui estão as tecnologias com as quais trabalho, organizadas por categoria:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
 ## Ferramentas e Plataformas  
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)  
 
 ## Estudando  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) ![DApp](https://img.shields.io/badge/DApp-282C34?style=flat-square&logo=ethereum&logoColor=white)  

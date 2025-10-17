@@ -7,7 +7,6 @@ Sou estudante de Ciência da Computação e aspirante a desenvolvedor Full Stack
 - 📧 E-mail: [jamzmarks@gmail.com](mailto:jamzmarks@gmail.com)
 - 🐱 GitHub: [JamzMarks](https://github.com/JamzMarks)
 - 🔗 LinkedIn: [James Marques](https://www.linkedin.com/in/james-marques-48828422b/)
-- 💬 Discord: lonezerabrasileiro
 
 
 ## 💻 Tecnologias
@@ -25,14 +24,6 @@ Aqui estão as tecnologias com as quais trabalho, organizadas por categoria:
 ## Ferramentas e Plataformas  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)  
 
-## Estudando  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) ![DApp](https://img.shields.io/badge/DApp-282C34?style=flat-square&logo=ethereum&logoColor=white)  
- 
-
-## 🛠 Projetos em Andamento
-- [Portfolio](https://github.com/JamzMarks/Portfolio) - Um portfólio pessoal para mostrar meus trabalhos e habilidades.
-- [eClose](https://github.com/JamzMarks/eClose) - Um projeto em desenvolvimento que estou empolgado para compartilhar em breve.
-- [Cademi](https://github.com/JamzMarks/Cademi) - TCC em desenvolvimento.
 
 ## 📊 Estatísticas
 ![jamzmarks's Stats](https://github-readme-stats.vercel.app/api?username=jamzmarks&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
@@ -41,8 +32,3 @@ Aqui estão as tecnologias com as quais trabalho, organizadas por categoria:
 
 ![jamzmarks's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamzmarks&theme=vue-dark&hide_border=true)
 
-<details>
-  <summary>🌱 Estou atualmente aprendendo...</summary>
-  
-  Estou dedicando tempo para aprofundar meu conhecimento em tecnologias front-end modernas como React e TypeScript, além de explorar mais sobre inteligência artificial aplicada à robótica.
-</details>
